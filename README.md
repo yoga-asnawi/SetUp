@@ -12,4 +12,4 @@ No | Topic Defensive
 
 No | Reference Kuliah
 --- | ---
-**Mysql Tutorial** |  (https://youtube.com/playlist?list=PL1c5fudCJJV68WiF4Ca0C9ziVBVgFxhek&si=zsKi6kB4LiBI9rzP)
+**Mysql Tutorial** |  https://youtube.com/playlist?list=PL1c5fudCJJV68WiF4Ca0C9ziVBVgFxhek&si=zsKi6kB4LiBI9rzP
