@@ -3,8 +3,8 @@ Setup untuk Pengguna baru
 
 No | Topic Offensive
 --- | ---
-**1** |  [Reconnaissance](/Offensive/Reconnaissance.sh)
-
+**Recon Tools** |  [Reconnaissance](/Offensive/Reconnaissance.sh)
+**Malware Development** |  https://www.youtube.com/playlist?list=PL_dk67mLCSFHa5jDNvEuXuoafMHmTjn32
 
 No | Topic Defensive
 --- | ---
