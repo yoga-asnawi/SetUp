@@ -8,7 +8,7 @@ No | Topic Offensive
 
 No | Topic Defensive
 --- | ---
-**1** |  [Dump Memory](/)
+**Malware Analysis** |  https://www.youtube.com/playlist?list=PL_dk67mLCSFGSkl3IiKH9H34VoeQDThFf
 
 No | Reference Kuliah
 --- | ---
